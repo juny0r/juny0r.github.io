@@ -103,7 +103,7 @@ header span {
 
 .card {
     border-radius: 0.6rem!important;
-    background-color: #242424;
+    background-color: #1a1a1a;
     transform: rotate(0deg);
     transition: transform 0.2s ease-in-out;
     padding: 1.25rem;
@@ -111,7 +111,7 @@ header span {
 }
 .card2 {
     border-radius: 0.6rem!important;
-    background-color: #242424;
+    background-color: #1a1a1a;
     padding: 1.25rem;
     place-content: space-around;
 }
@@ -165,7 +165,7 @@ header span {
 .card:hover {
     transform: rotate(2deg);
     --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-    box-shadow: var(--tw-ring-offset-shadow, 0 0 #c6c6c6), var(--tw-ring-shadow, 0 0 #c6c6c6), var(--tw-shadow);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #c6c6c6), var(--tw-ring-shadow, 0 0 #c6c6c6), var(--tw-shadow, 0 0 #c6c6c6);
 }
 
 .card-img {
