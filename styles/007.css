@@ -26,7 +26,7 @@ body {
 }
 
 .hight-light-text-gry {
-    background-color: #242430;
+    background-color: #000000;
     padding: 1px;
     padding-right: 4px !important;
     padding-left: 4px !important;
@@ -247,7 +247,7 @@ header span {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #242430;
+    background: #000000;
 }
 
 ::-webkit-scrollbar-thumb:hover {
