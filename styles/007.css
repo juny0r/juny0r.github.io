@@ -103,7 +103,7 @@ header span {
 
 .card {
     border-radius: 0.6rem!important;
-    background-color: #121012;
+    background-color: #242424;
     transform: rotate(0deg);
     transition: transform 0.2s ease-in-out;
     padding: 1.25rem;
@@ -111,7 +111,7 @@ header span {
 }
 .card2 {
     border-radius: 0.6rem!important;
-    background-color: #121012;
+    background-color: #242424;
     padding: 1.25rem;
     place-content: space-around;
 }
@@ -247,9 +247,9 @@ header span {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #000000;
+    background: #c6c6c6;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #30303f;
+    background: #c6c6c6;
 }
