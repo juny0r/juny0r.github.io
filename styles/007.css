@@ -26,7 +26,7 @@ body {
 }
 
 .hight-light-text-gry {
-    background-color: #c6c6c6;
+    background-color: #48014c;
     padding: 1px;
     padding-right: 4px !important;
     padding-left: 4px !important;
@@ -42,7 +42,7 @@ body {
 .sub-text {
     font-family: 'Dosis', sans-serif;
     font-size: 20px;
-    color: #a8a8b8
+    color: #48014c
 }
 
 bold {
@@ -103,7 +103,7 @@ header span {
 
 .card {
     border-radius: 0.6rem!important;
-    background-color: #48014c;
+    background-color: #131313;
     transform: rotate(0deg);
     transition: transform 0.2s ease-in-out;
     padding: 1.25rem;
@@ -111,7 +111,7 @@ header span {
 }
 .card2 {
     border-radius: 0.6rem!important;
-    background-color: #48014c;
+    background-color: #131313;
     padding: 1.25rem;
     place-content: space-around;
 }
@@ -247,9 +247,9 @@ header span {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #c6c6c6;
+    background: #020202;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #c6c6c6;
+    background: #020202;
 }
