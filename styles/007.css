@@ -103,7 +103,7 @@ header span {
 
 .card {
     border-radius: 0.6rem!important;
-    background-color: #1a1a1a;
+    background-color: #48014c;
     transform: rotate(0deg);
     transition: transform 0.2s ease-in-out;
     padding: 1.25rem;
@@ -111,7 +111,7 @@ header span {
 }
 .card2 {
     border-radius: 0.6rem!important;
-    background-color: #1a1a1a;
+    background-color: #48014c;
     padding: 1.25rem;
     place-content: space-around;
 }
