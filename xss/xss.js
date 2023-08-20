@@ -1,7 +1,7 @@
 // Username
 let username = 'Junyor 🚀';
 // User simpledescription etc (48 characters allowed)
-let description = 'pls don''t waste my time.';
+let description = 'nostalgia is cruel.';
 // User avatar
 let avatar = 'https://xatimg.com/image/9RcF6OSwniIF.png';
 
