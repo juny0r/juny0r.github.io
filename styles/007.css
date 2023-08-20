@@ -4,7 +4,7 @@
     margin: 0 0 100px;
 	background: #eff1f4;
 	font-family: Montserrat, sans-serif;
-    background-color: #161b22;
+    background-color: #18181b;
 }
 
 a {
@@ -54,7 +54,7 @@ img {
 	 width: 280px;
 	 border-radius: 4px;
 	 margin: 0 auto;
-	 background: #0d1117;
+	 background: #27272a;
 	 box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
 	 overflow: hidden;
 }
@@ -94,7 +94,7 @@ img {
 
 .card {
     border-radius: 0.6rem!important;
-    background-color: #0d1117;
+    background-color: #27272a;
     transform: rotate(0deg);
     transition: transform 0.2s ease-in-out;
     padding: 1.25rem;
